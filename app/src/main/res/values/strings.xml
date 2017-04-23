@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseTrial</string>
+
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+</resources>
